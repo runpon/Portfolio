@@ -7,11 +7,12 @@
 ---
 
 ## 기술</br>
-> <img src="./Mysql.png" width="40px" height="40px"/> **MySQL** </br>
+> <img src="https://github.com/runpon/Portfolio/blob/main/icon%20image/Mysql.png?raw=true" width="40px" height="40px"/> **MySQL** </br>
 - 필요한 Join과 SubQuery 활용 가능 </br>
-> <img src="./Flutter.png" width="40px" height="40px"/> **Flutter** </br>
+
+> <img src="https://github.com/runpon/Portfolio/blob/main/icon%20image/Flutter.png?raw=true" width="40px" height="40px"/> **Flutter** </br>
 - 상태관리(provider, Getx) 활용 가능 </br>
-> <img src="./Python.png" width="40px" height="40px"/> **Python** </br>
+> <img src="https://github.com/runpon/Portfolio/blob/main/icon%20image/Python.png?raw=true" width="40px" height="40px"/> **Python** </br>
 - FastAPI로 서버와 어플 연결, 데이터 전처리, 분석, 머신러닝 가능
 
 ## 자격증 </br>
