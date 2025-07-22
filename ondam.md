@@ -1,41 +1,95 @@
-# 김태민 포트폴리오
-> 안녕하세요. 데이터 분석가를 꿈꾸는 김태민의 데이터 분석과 시각화 포트폴리오입니다!
+# 온담 어플 기여사항 및 트러블 해결
 
-## 연락처
-- 이메일 : yyjxm7568@naver.com & ktm0499@gmail.com </br>
-- github : https://github.com/runpon
+## [ppt](https://www.canva.com/design/DAGppeL19Ek/X5NdAqmEmtaO4Xup4amGcw/view?utm_content=DAGppeL19Ek&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd7a23317)
+
+### 기여 사항
+
+#### 1. 데이터 베이스 모델링
+> - 요구 사항들을 ERD로 1차적으로 설계 (표1)
+> - 1차 설계한 것들을 EER로 2차 설계 (표2)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_erd.png?raw=true" width="400px" height="400px"/><br/>
+      <strong>표1</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_eer.png?raw=true" width="400px" height="500px"/><br/>
+      <strong>표2</strong>
+    </td>
+  </tr>
+</table>
+
+#### 2. 본사 데이터 시각화
+> - 본사 대쉬보드 제작 (표1)
+> - 상세 정보 시각화 (표 2,3,4,5,6) </br>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_main.png?raw=true" width="400px" height="600px"/><br/>
+      <span>표1</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph1.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표2</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph2.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표3</span>
+    </td>
+    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph3.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표4</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph4.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표5</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph5.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표6</span>
+    </td>
+  </tr>
+</table>
+
+#### 3. 대리점 데이터 시각화
+> - 본사 대쉬보드 제작 (표1)
+> - 상세 정보 시각화 (표 2,3,4,5,6) </br>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_status.png?raw=true" width="400px" height="600px"/><br/>
+      <span>표1</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_detail1.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표2</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_detail2.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표3</span>
+    </td>
+    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_analysis1.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표4</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_analysis2.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표5</span>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 기술</br>
-> <img src="./Mysql.png" width="40px" height="40px"/> **MySQL** </br>
-- 필요한 Join과 SubQuery 활용 가능 </br>
-> <img src="./Flutter.png" width="40px" height="40px"/> **Flutter** </br>
-- 상태관리(provider, Getx) 활용 가능 </br>
-> <img src="./Python.png" width="40px" height="40px"/> **Python** </br>
-- FastAPI로 서버와 어플 연결, 데이터 전처리, 분석, 머신러닝 가능
+###  트러블 해결
 
-## 자격증 </br>
-- 데이터 분석 준전문가(ADsP) (25/06/13)
-
-## 프로젝트
-
-### 1. [kicksy](https://github.com/Eunjun1/kicksy)
-> 날짜 : 25/05/09(금) ~ 25/05/20(화) </br>
-> 조원 : 김은준, 김재원, 김태민, 위성배 [팀프로젝트]</br>
-- 신발 가게(관리자, 이용자) 어플 </br>
-- Flutter / Mysql / FastAPI / Python </br>
-- [역할] 데이터 베이스 설계 및 구축, sql문 작성, 지도 시각화, 
-
-### 2. [ondam](https://github.com/TeamOne-Final/ondam)
-> 날짜 : 25/06/03(월) ~ 25/06/17(화) </br>
-> 조원 : 강인환, 김상범, 김지호, 김태민, 이학현 [팀프로젝트] </br>
-- 음식 프랜차이즈(관리자, 이용자) 어플  </br>
-- Flutter / Mysql / FastAPI / Python / Firebase </br>
-- [역할] 데이터 베이스 설계 및 구축, sql문 작성, 본사,대리점 차트
-
-### 3. [부동산 아파트 전세 가겨 예측 어플](https://github.com/jihokim1/1team_Machine-Learning)
-> 날짜 : 25/07/07(월) ~ 25/07/18(금) </br>
-> 조원 : 강인환, 김상범, 김지호, 김태민, 이학현 [팀프로젝트] </br>
-- 강서구(동 통합 / (2020 - 2024)), 노원구(4개 동(월계, 상계, 중계, 하계) (2022-2024)) 아파트 전세가격 예측 후 고객에게 APP으로 서비스
-- Flutter / Mysql / FastAPI / Python / MongoDB </br>
-- [역할] 데이터 전처리, EDA, 시각화, 분석, 머신러닝, 크롤링, 데이터 베이스 구축
+#### 1. 중간에 데이터 베이스에 relation이나 entity를 추가하자
+> 1. 앱을 만들던 중 테이블이 움직이는 기능이 필요하다고 팀원이 주장
+> 2. 지금 데이터 베이스를 고치려면 처음부터 다시 설계 후 만들어야 하기에 시간적으로 힘들다고 설득
+> 3. 절충안으로 새로운 relation을 만들어서 기존 데이터 베이스를 수정하는 것으로 마무리
