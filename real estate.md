@@ -62,7 +62,6 @@
 
 #### 6. 데이터 베이스 구축
 > - NoSQL인 MongoDB로 데이터 베이스를 구축함 (표1) </br>
-https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/mongodb.png?raw=true
 <table>
   <tr>
     <td align="center">
