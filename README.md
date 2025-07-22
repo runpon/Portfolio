@@ -25,7 +25,8 @@
 > 조원 : 김은준, 김재원, 김태민, 위성배 [팀프로젝트]</br>
 - 신발 가게(관리자, 이용자) 어플 </br>
 - Flutter / Mysql / FastAPI / Python </br>
-- [역할] 데이터 베이스 설계 및 구축, sql문 작성, 지도 시각화, 
+- [역할] 데이터 베이스 설계 및 구축, sql문 작성, 지도 시각화,
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/kicksy.md)
 
 ### 2. [ondam](https://github.com/TeamOne-Final/ondam)
 > 날짜 : 25/06/03(월) ~ 25/06/17(화) </br>
@@ -33,6 +34,7 @@
 - 음식 프랜차이즈(관리자, 이용자) 어플  </br>
 - Flutter / Mysql / FastAPI / Python / Firebase </br>
 - [역할] 데이터 베이스 설계 및 구축, sql문 작성, 본사,대리점 차트
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ondam.md)
 
 ### 3. [부동산 아파트 전세 가겨 예측 어플](https://github.com/jihokim1/1team_Machine-Learning)
 > 날짜 : 25/07/07(월) ~ 25/07/18(금) </br>
@@ -40,3 +42,4 @@
 - 강서구(동 통합 / (2020 - 2024)), 노원구(4개 동(월계, 상계, 중계, 하계) (2022-2024)) 아파트 전세가격 예측 후 고객에게 APP으로 서비스
 - Flutter / Mysql / FastAPI / Python / MongoDB </br>
 - [역할] 데이터 전처리, EDA, 시각화, 분석, 머신러닝, 크롤링, 데이터 베이스 구축
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/real%20estate.md)
