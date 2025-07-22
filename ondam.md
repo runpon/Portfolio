@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_data.png?raw=true" width="400px" height="600px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_main.png?raw=true" width="400px" height="600px"/><br/>
       <span>표1</span>
     </td>
     <td align="center">
