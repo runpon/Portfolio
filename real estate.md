@@ -15,11 +15,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/outlier.png?raw=true" width="400px" height="400px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/outlier.png?raw=true" width="400px" height="400px"/><br/>
       <strong>표1</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/heatmap.png?raw=true" width="400px" height="400px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/heatmap.png?raw=true" width="400px" height="400px"/><br/>
       <strong>표2</strong>
     </td>
   </tr>
@@ -31,21 +31,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/year&deposit.png?raw=true" width="400px" height="600px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/year&deposit.png?raw=true" width="400px" height="600px"/><br/>
       <span>표1</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/area&deposit.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/area&deposit.png?raw=true" width="400px" height="300px"/><br/>
       <span>표2</span>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/floor&deposit.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/floor&deposit.png?raw=true" width="400px" height="300px"/><br/>
       <span>표3</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/gongneung.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/gongneung.png?raw=true" width="400px" height="300px"/><br/>
       <span>표4</span>
     </td>
   </tr>
@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/real%20estate%20image/mongodb.png?raw=true" width="400px" height="400px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/real%20estate%20image/mongodb.png?raw=true" width="400px" height="400px"/><br/>
       <strong>표1</strong>
     </td>
   </tr>
