@@ -4,7 +4,7 @@
 ## 연락처
 - 이메일 : yyjxm7568@naver.com & ktm0499@gmail.com </br>
 - github : https://github.com/runpon
-*****
+---
 
 ## 기술</br>
 > <img src="./Mysql.png" width="40px" height="40px"/> **MySQL** </br>
