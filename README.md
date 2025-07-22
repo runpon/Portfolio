@@ -36,7 +36,7 @@
 - [역할] 데이터 베이스 설계 및 구축, sql문 작성, 본사,대리점 차트
 - [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ondam.md)
 
-### 3. [부동산 아파트 전세 가겨 예측 어플](https://github.com/jihokim1/1team_Machine-Learning)
+### 3. [부동산 아파트 전세 가격 예측 어플](https://github.com/jihokim1/1team_Machine-Learning)
 > 날짜 : 25/07/07(월) ~ 25/07/18(금) </br>
 > 조원 : 강인환, 김상범, 김지호, 김태민, 이학현 [팀프로젝트] </br>
 - 강서구(동 통합 / (2020 - 2024)), 노원구(4개 동(월계, 상계, 중계, 하계) (2022-2024)) 아파트 전세가격 예측 후 고객에게 APP으로 서비스
