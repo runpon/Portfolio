@@ -11,11 +11,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_erd.png?raw=true" width="400px" height="400px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_erd.png?raw=true" width="400px" height="400px"/><br/>
       <strong>표1</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_eer.png?raw=true" width="400px" height="500px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_eer.png?raw=true" width="400px" height="500px"/><br/>
       <strong>표2</strong>
     </td>
   </tr>
@@ -27,29 +27,29 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_main.png?raw=true" width="400px" height="600px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_main.png?raw=true" width="400px" height="600px"/><br/>
       <span>표1</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph1.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_graph1.png?raw=true" width="400px" height="300px"/><br/>
       <span>표2</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph2.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_graph2.png?raw=true" width="400px" height="300px"/><br/>
       <span>표3</span>
     </td>
     </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph3.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_graph3.png?raw=true" width="400px" height="300px"/><br/>
       <span>표4</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph4.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_graph4.png?raw=true" width="400px" height="300px"/><br/>
       <span>표5</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_hq_graph5.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_graph5.png?raw=true" width="400px" height="300px"/><br/>
       <span>표6</span>
     </td>
   </tr>
@@ -61,25 +61,25 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_status.png?raw=true" width="400px" height="600px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_status.png?raw=true" width="400px" height="600px"/><br/>
       <span>표1</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_detail1.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_detail1.png?raw=true" width="400px" height="300px"/><br/>
       <span>표2</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_detail2.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_detail2.png?raw=true" width="400px" height="300px"/><br/>
       <span>표3</span>
     </td>
     </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_analysis1.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_analysis1.png?raw=true" width="400px" height="300px"/><br/>
       <span>표4</span>
     </td>
     <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/main/ondam%20image/ondam_store_analysis2.png?raw=true" width="400px" height="300px"/><br/>
+      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_analysis2.png?raw=true" width="400px" height="300px"/><br/>
       <span>표5</span>
     </td>
   </tr>
