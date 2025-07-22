@@ -1,6 +1,6 @@
 # 부동산 아파트 전세 가격 예측 어플 기여사항 및 트러블 해결
 
-## [ppt 주소](https://www.canva.com/design/DAGtHNp4p1U/4fF7vpzJ3WyLKqI2nH5iUQ/edit)
+## [ppt](https://www.canva.com/design/DAGtHNp4p1U/spIJD25MmBJgsc-5XXaw_Q/view?utm_content=DAGtHNp4p1U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5adea4ddf5)
 
 ### 기여 사항
 
