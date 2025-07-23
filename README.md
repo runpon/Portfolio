@@ -12,7 +12,7 @@
 - 데이터베이스 설계, 구현 가능
 
 > <img src="https://github.com/runpon/Portfolio/blob/data/icon%20image/Flutter.png?raw=true" width="40px" height="40px"/> **Flutter** </br>
-- MVVM(provider, Getx) 활용 가능 </br>
+- MVVM(provider, Getx) 활용한 앱 제작 가능 </br>
 - 데이터 베이스를 활용한 앱 제작 가능
 
 > <img src="https://github.com/runpon/Portfolio/blob/data/icon%20image/Python.png?raw=true" width="40px" height="40px"/> **Python** </br>
