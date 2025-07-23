@@ -38,4 +38,4 @@
 - 강서구(동 통합 / (2020 - 2024)), 노원구(4개 동(월계, 상계, 중계, 하계) (2022-2024)) 아파트 전세가격 예측 후 고객에게 앱으로 서비스
 - Flutter / FastAPI / Python / MongoDB </br>
 - [역할] 데이터 전처리, EDA, 시각화, 분석, 머신러닝, 크롤링, MongoDB 구축
-- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/data/real%20estate.md)
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/real%20estate.md)
