@@ -16,7 +16,7 @@
 - 데이터 베이스를 활용한 앱 제작 가능
 
 > <img src="https://github.com/runpon/Portfolio/blob/data/icon%20image/Python.png?raw=true" width="40px" height="40px"/> **Python** </br>
-- 데이터 전처리, 분석, 머신러닝 가능
+- 데이터 전처리, 분석, 머신러닝, 크롤링 가능
 - FastAPI로 서버와 앱 연결 가능
 
 ## 자격증 </br>
