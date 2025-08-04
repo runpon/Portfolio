@@ -30,7 +30,7 @@
 - 음식 프랜차이즈(관리자, 이용자) 앱  </br>
 - Flutter / MySQL / FastAPI / Python / Firebase </br>
 - [역할] MySQL 설계 및 구축, sql문 작성, 본사,대리점 차트
-- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/data/ondam.md)
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ondam.md)
 
 ### 2. [부동산 아파트 전세 가격 예측 어플](https://github.com/jihokim1/1team_Machine-Learning)
 > 날짜 : 25/07/07(월) ~ 25/07/18(금) </br>
