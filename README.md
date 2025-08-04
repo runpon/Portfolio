@@ -40,7 +40,7 @@
 - [역할] 데이터 전처리, EDA, 시각화, 분석, 머신러닝, 크롤링, MongoDB 구축
 - [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/real%20estate.md)
 
-### 3. [서울시 따릉이 데이터를 분석한 구별 자전거 반납 및 대여 스테이션별 예측 웹 개발](hhttps://github.com/whatslung/seoul_bike/tree/%EC%9D%B8%ED%99%98/mapo_seoul_bike)
+### 3. [서울시 따릉이 자전거 반납 및 대여 스테이션별 예측 웹 개발](hhttps://github.com/whatslung/seoul_bike/tree/%EC%9D%B8%ED%99%98/mapo_seoul_bike)
 > 날짜 : 25/07/22(화) ~ 25/07/31(목) </br>
 > 조원 : 강X환, 김태민, 위x배, 정x윤[팀프로젝트] </br>
 - 마포구 자전거 스테이션별 반납 및 대여 예측 웹 개발
