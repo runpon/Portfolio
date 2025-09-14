@@ -46,4 +46,4 @@
 - 마포구 자전거 스테이션별 반납 및 대여 예측 웹 개발
 - Flutter / FastAPI / Python </br>
 - [역할] 데이터 수집, 전처리, EDA, 시각화, 분석, 머신러닝, 웹 구축
-- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/ddareung.md)
+- [기여 사항과 트러블 해결](https://github.com/runpon/Portfolio/blob/main/hangang_parking.md)
