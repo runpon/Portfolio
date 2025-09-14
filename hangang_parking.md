@@ -1,6 +1,6 @@
-# 온담 어플 기여사항 및 트러블 해결
+# 한강공원 주차수요 예측 및 한강 공원내 이용자를 위한 서비스 APP & WEB 기여사항 및 트러블 해결
 
-## [ppt](https://www.canva.com/design/DAGppeL19Ek/X5NdAqmEmtaO4Xup4amGcw/view?utm_content=DAGppeL19Ek&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd7a23317)
+## [ppt](https://www.canva.com/design/DAGwye9VSA4/epAIhlsB6tV53YZGv0qh4g/view?utm_content=DAGwye9VSA4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h07ce3301a9)
 
 ### 기여 사항
 
