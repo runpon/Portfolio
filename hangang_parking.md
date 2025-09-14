@@ -4,9 +4,9 @@
 
 ### 기여 사항
 
-#### 1. 데이터 베이스 모델링
+#### 1. 데이터 베이스
 > - 요구 사항을 기반으로 1차적으로 ERD 설계  (표1)
-> - 1차 ERD를 기반으로 EER 모델로 확장하여 2차 설계 (표2)
+> - 1차 ERD를 기반으로 NoSQL 설계 (표2)
 
 <table>
   <tr>
@@ -21,9 +21,10 @@
   </tr>
 </table>
 
-#### 2. 본사 데이터 시각화
-> - 본사용 대쉬보드 제작 (표1)
-> - 상세 지표 시각화 (표 2 - 표 6) </br>
+#### 2. 분석 및 머신러닝
+> - 통계적 분석 (표1)
+> - 버스 승하차객 머신러닝 (표 2 - 표 6) </br>
+> - 주차장 이용량 머신러닝 (표 2 - 표 6) </br>
 <table>
   <tr>
     <td align="center">
@@ -51,35 +52,6 @@
     <td align="center">
       <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_hq_graph5.png?raw=true" width="400px" height="300px"/><br/>
       <span>표6</span>
-    </td>
-  </tr>
-</table>
-
-#### 3. 대리점 데이터 시각화
-> - 상세 지표 시각화 (표 1 - 표 5) </br>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_status.png?raw=true" width="400px" height="600px"/><br/>
-      <span>표1</span>
-    </td>
-    <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_detail1.png?raw=true" width="400px" height="300px"/><br/>
-      <span>표2</span>
-    </td>
-    <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_detail2.png?raw=true" width="400px" height="300px"/><br/>
-      <span>표3</span>
-    </td>
-    </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_analysis1.png?raw=true" width="400px" height="300px"/><br/>
-      <span>표4</span>
-    </td>
-    <td align="center">
-      <img src="https://github.com/runpon/Portfolio/blob/data/ondam%20image/ondam_store_analysis2.png?raw=true" width="400px" height="300px"/><br/>
-      <span>표5</span>
     </td>
   </tr>
 </table>
