@@ -15,7 +15,21 @@
 #### 3. 예측 모델링 및 성능 비교
 > - 랜덤 포레스트 기반 회귀 모델을 사용해 시간별 대여량 예측 수행
 > -	XGBoost와 비교하여 성능 및 해석력 분석
-> -	MSE, MAE 등 지표를 기반으로 모델 선택 및 시각화
+> -	MSE, MAE 등 지표를 기반으로 모델 선택 및 시각화 </br>
+> -	예측값과 실제값 비교 시각화 (표1) </br>
+> -	가중치를 주기 위한 시각화 (표2) </br>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/data/bike%20image/real_pred.png?raw=true" width="400px" height="600px"/><br/>
+      <span>표1</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/runpon/Portfolio/blob/data/bike%20image/view%20weight.png?raw=true" width="400px" height="300px"/><br/>
+      <span>표2</span>
+    </td>
+    </tr>
+</table>
 
 
 ---
